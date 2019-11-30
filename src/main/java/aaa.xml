@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<bean id="aa" class="sa">
+		<property name="" value=""></property>
+		<property name="">
+		    <bean class="">
+		    <property name="" value=""></property>
+		    <propety name="" value=""></propety>
+		    </bean>
+		 </property>   
+	</bean>
+</beans>
